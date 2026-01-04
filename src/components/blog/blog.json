@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_blog_blogs",
+  "info": {
+    "displayName": "blog"
+  },
+  "options": {},
+  "attributes": {
+    "blogtitle": {
+      "type": "string"
+    },
+    "blogtext": {
+      "type": "string"
+    },
+    "bottomcard": {
+      "type": "string"
+    },
+    "bottonprev": {
+      "type": "string"
+    },
+    "numberpage": {
+      "type": "string"
+    },
+    "bottonnext": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}

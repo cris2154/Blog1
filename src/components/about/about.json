@@ -1,0 +1,41 @@
+{
+  "collectionName": "components_about_abouts",
+  "info": {
+    "displayName": "About"
+  },
+  "options": {},
+  "attributes": {
+    "aboutText": {
+      "type": "text"
+    },
+    "aboutphoto": {
+      "type": "media",
+      "multiple": true,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "aboutTitle": {
+      "type": "string"
+    },
+    "aboutdisponibility": {
+      "type": "string"
+    },
+    "abouttextshot1": {
+      "type": "string"
+    },
+    "abouttextshot2": {
+      "type": "string"
+    },
+    "abouttextshot3": {
+      "type": "string"
+    },
+    "aboutbuttom": {
+      "type": "string"
+    }
+  },
+  "config": {}
+}
